@@ -1,0 +1,16 @@
+:root {
+  --darkBlue: hsl(243, 87%, 12%);
+  --saturatedBlue: hsl(238, 22%, 44%);
+  --brightBlue: hsl(224, 93%, 58%);
+  --cyan: hsl(170, 45%, 43%);
+  --lightWhite: hsl(240, 75%, 98%);
+  --lightGray: hsl(0, 0%, 75%);
+}
+
+html, body{
+    width: 100%;
+    height: 100%;
+    font-size: 62.5%;
+}
+
+
